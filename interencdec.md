@@ -16,16 +16,16 @@ The '==' make me immediately think that this base 64 string
 b'd3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzc4MjUwaG1qfQ=='
 ```
 The result looks like a base64 string.This makes me believe that the data has been encoded multiple times.
-![screenshot of wireshark](./Screenshots/interencdec_Decodefr_first64.jpg)
+![screenshot of decoder](./Screenshots/interencdec_Decodefr_first64.jpg)
 
 3.I again use a base64 decoder and input the base64 string we got after remove the b''.I get the following result
 ```
 wpjvJAM{jhlzhy_k3jy9wa3k_78250hmj}
 ```
-![screenshot of wireshark](./Screenshots/interencdec_Decodefr_second64.jpg)
+![screenshot of decode](./Screenshots/interencdec_Decodefr_second64.jpg)
 
 4.I try decoding the string we got with a ceaser cipher decoder
-![screenshot of wireshark](./Screenshots/interencdec_Decodefr_caesar.jpg)
+![screenshot of decoder](./Screenshots/interencdec_Decodefr_caesar.jpg)
 
 ## Flag:
 

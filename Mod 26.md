@@ -8,7 +8,7 @@ Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_
 <br>
 
 2.For decoding the ROT13 cipher I just use a ROT13 Decoder.
-![screenshot of wireshark](./Screenshots/Decodefr_ROT13.jpg)
+![screenshot of decoder](./Screenshots/Mod26_Decodefr_ROT13.jpg)
 
 ## Flag:
 
