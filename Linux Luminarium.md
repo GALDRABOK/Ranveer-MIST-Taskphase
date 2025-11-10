@@ -5,11 +5,7 @@ This module will teach you the VERY basics of interacting with the command line!
 1. Intro to Commands <br>
 The challenge simply asks us to invoke the hello command to get the flag.Upon doing so we get the flag
 ![screenshot of challenge](./Screenshots/linux_HelloHackers_Chall1.jpg)
-```
-put codes & terminal outputs here using triple backticks
 
-you may also use ```python for python codes for example
-```
 - Flag:
 ```
 pwn.college{UDZmuLprBcznEcparTkVGBXUDdH.QX3YjM1wyM2kDN0EzW}
